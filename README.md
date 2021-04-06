@@ -7,7 +7,8 @@
 > The website is meant to serve the purpose for the official website of Student Technical Community , VIT Vellore and all its operation.
 
 ---
-[![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://stcvit.in/)
+
+[![Download ](https://img.shields.io/badge/-Get%20the%20link%20to%20the%20Website-brightgreen)](https://stcvit.in/)
 
 ## Contributors
 * <a href="https://github.com/RishabhBudhia"> Rishabh Budhia </a>
