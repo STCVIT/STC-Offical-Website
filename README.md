@@ -4,7 +4,7 @@
 <h1> STC Website</h1>
 
 > <Subtitle>
-> The website is meant to serve the purpose for the official website of Student Technical Community , VIT Vellore and all its operation.
+> The official website of Student Technical Community , VIT Vellore.
 
 ---
 
